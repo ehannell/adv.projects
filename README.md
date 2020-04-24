@@ -8,4 +8,4 @@ This project provide an overview of stock market price fluctuations during the i
 3. Exploratory comparsion between COVID-19 stock market crash and the Lehman bankruptcy crash of 2008
 
 
-sp500vscompanies.html
+![](/sp500vscompanies.html.JPG)
