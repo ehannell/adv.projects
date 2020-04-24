@@ -1,13 +1,8 @@
 # COVID-19 and Performance of stock market
 
-Link to site: https://ehannell.github.io/adv.projects/
+This project provide an overview of stock market price fluctuations during the initial two months of the COVID-19 outbreak. Focusing on the S&P500 index and its constituents, the data is visaulized per individual company level, per industry, and geographically (US only).
 
-This project shows financial market fluctuations for the first two months of the COVID-19 stock market crash. Both on a high level, but also on individual company level.
-
-You will be guided through 3 segments:
-1. The stock market movement as COVID-19 spread.
-2. An interacitve look at individual companies and sectors
-3. A comparsion to the latest stock market crash
-
-<blockquote class="embedly-card"><h4><a href="https://github.com/ehannell/adv.projects/blob/master/sp500vscompanies.html">ehannell/adv.projects</a></h4><p>Adv.projects: COVID-19 & Financial Market. Contribute to ehannell/adv.projects development by creating an account on GitHub.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+### The project narrative consists of three parts;
+1. Price fluctuation of the S&P500 during the COVID-19 spread (2 Feb - 31 March)
+2. Company and industry specific performance 
+3. Exploratory comparsion between COVID-19 stock market crash and the Lehman bankruptcy crash of 2008
