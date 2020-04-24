@@ -6,3 +6,6 @@ This project provide an overview of stock market price fluctuations during the i
 1. Price fluctuation of the S&P500 during the COVID-19 spread (2 Feb - 31 March)
 2. Company and industry specific performance 
 3. Exploratory comparsion between COVID-19 stock market crash and the Lehman bankruptcy crash of 2008
+
+
+sp500vscompanies.html
